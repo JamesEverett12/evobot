@@ -1,7 +1,7 @@
 {
-  "name": "EvoBot",
+  "name": "Izumi",
   "description": "🤖 Discord Music Bot built with discord.js",
-  "repository": "https://github.com/eritislami/evobot",
+  "repository": "https://github.com/JamesEverett12/evobot",
   "logo": "https://i.imgur.com/JFxgbWH.png",
   "keywords": ["discord", "discordjs", "music", "bot"]
 }
